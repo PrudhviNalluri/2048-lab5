@@ -1,0 +1,7 @@
+<resources>
+   <declare-styleable name="TwentyFortyEightView">
+       <attr name="width" format="integer" />
+       <attr name="height" format="integer"/>
+       <attr name="cellPadding" format="integer"/>
+   </declare-styleable>
+</resources>
